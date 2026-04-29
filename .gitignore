@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+*.db3
+example_output.json
